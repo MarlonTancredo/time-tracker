@@ -1,22 +1,9 @@
 import React, { useState } from "react";
-import {
-    Button,
-    Dialog,
-    DialogActions,
-    DialogContent,
-    DialogTitle,
-    TextField,
-    FormControl,
-    InputLabel,
-    MenuItem,
-    Select,
-    Box,
-    Typography,
-} from "@mui/material";
+import { Button, Dialog, DialogActions, DialogContent, DialogTitle, TextField, FormControl, Box, Typography } from "@mui/material";
 import { DateTimePicker } from "@mui/x-date-pickers/DateTimePicker";
 import { LocalizationProvider } from "@mui/x-date-pickers/LocalizationProvider";
 import { AdapterDateFns } from "@mui/x-date-pickers/AdapterDateFns";
-import { format, subMonths, addMonths } from "date-fns";
+import { subMonths, addMonths } from "date-fns";
 
 interface AddManualShiftProps {
     open: boolean;
