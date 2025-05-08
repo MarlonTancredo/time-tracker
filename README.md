@@ -5,7 +5,7 @@
 -   Download `Git` by clicking here: [Git](https://git-scm.com/download/win) and follow the steps for installation.
 -   Install `Node` following the steps by clicking here: [NodeJS documentation](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
 -   Install `Yarn package manager` following the steps by clicking here: [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable).
--   Once `Git`, `Node` and `Yarn package manager` has been installed open your terminal and run the command `git clone https://github.com/MarlonTancredo/viewer-artwork.git` to clone this repository.
+-   Once `Git`, `Node` and `Yarn package manager` has been installed open your terminal and run the command `git clone https://github.com/MarlonTancredo/time-tracker` to clone this repository.
 -   Go inside the project folder and install the project dependencies running `yarn` command.
 -   After all dependencies has been installed run the command `yarn dev` to run the project locally.
 
