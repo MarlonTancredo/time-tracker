@@ -1,4 +1,4 @@
-# [Time-Tracker](https://time-tracker-marlon.netlify.app/)<a href="http://example.com" target="_blank">Time-Tracker</a> - React - TypeScript - Vite
+# [Time-Tracker](https://time-tracker-marlon.netlify.app/)- React - TypeScript - Vite
 
 ## Step by step to run this project locally:
 
